@@ -1,6 +1,6 @@
 # HIF1A-COVID Multi-scale Analysis
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20594498.svg)](https://doi.org/10.5281/zenodo.20594498)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
@@ -41,7 +41,7 @@ If you use this code or the derived results, please cite:
 
 and the archived release:
 
-> Živanović M. hif1a-covid-multiscale (v1.0.0) [Computer software]. Zenodo. 2026. https://doi.org/10.5281/zenodo.XXXXXXXX
+> Živanović M. hif1a-covid-multiscale (v1.0.0) [Computer software]. Zenodo. 2026. https://doi.org/10.5281/zenodo.20594498
 
 A machine-readable citation file is provided in [`CITATION.cff`](CITATION.cff).
 
