@@ -1,0 +1,5 @@
+SNP,genotype,N,AUC,mean_predicted_prob,actual_event_rate
+rs11549465,CC,78,0.471,0.524,0.346
+rs11549465,CT,11,0.6,0.524,0.091
+rs41508050,CC,66,0.485,0.525,0.333
+rs41508050,CT,11,0.528,0.523,0.182

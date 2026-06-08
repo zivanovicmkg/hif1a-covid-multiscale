@@ -1,0 +1,5 @@
+Model,AUC,CI_low,CI_high,ΔAUC_vs_full,N_features
+Original (all 12 features),0.839,0.743,0.924,0.0,12
+Without HTA,0.813,0.708,0.901,-0.026,11
+Without komorbiditeti_bin,0.84,0.752,0.918,0.001,11
+Without HTA AND komorbiditeti_bin,0.817,0.712,0.911,-0.022,10

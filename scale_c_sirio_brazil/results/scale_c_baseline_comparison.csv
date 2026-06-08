@@ -1,0 +1,2 @@
+Model,N_features,Test_AUC,CI_low,CI_high,vs_best_full_AUC,Delta_AUC_labs_contribute
+LR baseline (demog only),3,0.636,0.481,0.765,0.794,0.158

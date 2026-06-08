@@ -1,0 +1,6 @@
+Model,Test_AUC,CI_low,CI_high,Brier,AvgPrecision
+Logistic Regression,0.695,0.56,0.818,0.239,0.631
+Random Forest,0.754,0.624,0.868,0.2,0.663
+XGBoost,0.78,0.65,0.888,0.209,0.736
+LightGBM,0.779,0.665,0.881,0.226,0.725
+XGBoost (calibrated),0.794,0.686,0.887,0.194,0.707

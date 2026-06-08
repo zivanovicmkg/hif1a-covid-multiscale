@@ -1,0 +1,3 @@
+Test,mean_group1,mean_group2,Cohen_d,p_value,note
+COVID vs Healthy (cell-level),0.026,0.022,+0.014,2.448e-02,n_COVID=22766, n_Healthy=3007 (1 patient only)
+NonWeaned vs Weaned (within COVID),0.065,-0.046,+0.312,1.035e-70,n_NW=14908 (3 pts), n_W=7858 (2 pts)

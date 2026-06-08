@@ -1,0 +1,12 @@
+Feature,Coef,OR,CI_low,CI_high
+AGE,0.169,1.18,1.15,1.21
+obesity,0.103,1.11,1.08,1.14
+diabetes,0.101,1.11,1.08,1.13
+SEX_MALE,-0.089,0.91,0.89,0.94
+hypertension,0.057,1.06,1.03,1.09
+immunosuppressed,0.038,1.04,1.01,1.06
+copd,-0.017,0.98,0.96,1.01
+chronic_renal,0.016,1.02,0.99,1.04
+asthma,-0.009,0.99,0.97,1.02
+cardiovascular,0.008,1.01,0.98,1.03
+smoking,-0.001,1.0,0.97,1.02

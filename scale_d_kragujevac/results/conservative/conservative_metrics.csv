@@ -1,0 +1,4 @@
+Model,AUC,CI_low,CI_high,Brier,N_features
+LR (11 baseline features),0.839,0.743,0.924,0.16,12
+XGBoost (11 baseline features),0.746,0.625,0.849,0.192,12
+LR (age + SpO2 only),0.797,0.69,0.891,NA,2

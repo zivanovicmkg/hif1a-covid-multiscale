@@ -1,0 +1,7 @@
+rank,cluster,n_docs,pct,top_terms
+1,3,1042,36.0,"healthcare, social, challenges, nurses, access, services, students, learning, quality, digital"
+2,6,814,28.1,"mortality, symptoms, long, incidence, hospital, post-covid, severity, cancer, days, diagnosis"
+3,2,325,11.2,"viral, immune, protein, cells, antiviral, cell, spike, binding, ace, expression"
+4,5,283,9.8,"mental, anxiety, stress, depression, students, psychological, symptoms, social, physical, sleep"
+5,4,229,7.9,"vaccination, vaccine, vaccines, mrna, hesitancy, vaccinated, uptake, antibody, dose, doses"
+6,1,203,7.0,"influenza, detection, surveillance, rsv, virus, samples, viral, transmission, viruses, wastewater"

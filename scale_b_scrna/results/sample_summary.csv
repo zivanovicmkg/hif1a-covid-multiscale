@@ -1,0 +1,7 @@
+sample_id,condition,weaning_group,n_cells_after_QC,n_genes_median,mt_pct_median,n_counts_median
+S2646,Healthy,NA,3007,282,0.45,428
+S2706,COVID,Weaned,801,421,0.65,740
+S2708,COVID,Weaned,7057,558,2.35,1152
+S2753,COVID,NonWeaned,1163,233,0.22,366
+S2765,COVID,NonWeaned,2325,240,0.0,386
+S3116,COVID,NonWeaned,11420,302,0.0,608

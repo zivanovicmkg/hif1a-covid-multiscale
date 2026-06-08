@@ -1,0 +1,2 @@
+Cohort,N,Event_rate,AUC,AUC_CI_low,AUC_CI_high,AUC_calibrated,Brier,Brier_calibrated,AP,Accuracy,Precision,Recall,F1
+Kragujevac,93,0.323,0.503,0.36,0.632,0.376,0.259,0.312,0.382,0.323,0.323,1.0,0.488

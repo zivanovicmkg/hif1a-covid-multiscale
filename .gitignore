@@ -1,0 +1,102 @@
+# ============================================================================
+# HIF1A-COVID Multi-scale — .gitignore
+# ============================================================================
+
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ----- Virtual environments -----
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# ----- Jupyter -----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ----- IDE -----
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ----- Internal / personal docs -----
+# Anything related to internal AI-assisted development workflows is excluded
+CLAUDE.md
+CLAUDE_*.md
+*_HANDOFF.md
+*_handoff.md
+.claude/
+PROJECT_STATUS.txt
+notes_personal/
+
+# ----- Large raw datasets (download from upstream source per data/README.md) -----
+# Single-cell h5ad files (Scale B scRNA) — 90 MB – 1.8 GB each
+*.h5ad
+*.h5
+
+# GEO bulk RNA-seq raw counts / matrices
+GSE*_raw_counts*.txt
+GSE*_raw_counts*.tsv
+GSE*_Counts_*.txt
+GSE*_expression_matrix*.tsv
+GSE*_Data_RNAseq*.txt
+GSE*_series_matrix.txt
+GSE*_series_matrix.txt.gz
+GSE*_RAW.tar
+GSE*_RAW.tar.gz
+
+# COVID-19 HGI GWAS files
+COVID19_HGI_*.tsv.gz
+COVID19_HGI_*.tsv
+
+# Large public clinical datasets (download from gob.mx, CDC, Kaggle per data/README.md)
+mexico_covid19.csv
+COVID-19_Case_Surveillance_Public_Use_Data.csv
+covid19-case-surveillance-public-use-dataset.zip
+*Covid-19_Ver2*
+COVID-19_CBC_Data.csv
+
+# ----- PubMed abstracts (300+ small files) — packaged separately on Zenodo -----
+literature_mining/data/abstracts/
+
+# ----- TIFF figures (use PNG in repo, TIFF only for journal submission) -----
+*.tiff
+*.tif
+
+# ----- Compressed archives -----
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# ----- Logs (kept per-scale as small log files, but exclude bulky scans) -----
+# (per-scale results/*_log.txt are kept; exclude only bulky/host-specific logs)
+*.log.bulk
+phase2_counts.log
+
+# ----- Patient-level / sensitive data (Scale D Kragujevac) -----
+# These MUST NEVER enter the repository
+scale_d_kragujevac/data/kragujevac_*.csv
+scale_d_kragujevac/data/*genotype*.csv
+scale_d_kragujevac/data/*patient*.csv
+scale_d_kragujevac/data/*.xlsx
+
+# Models that contain trained patient-level info (only public-trained ones kept)
+# scale_d_kragujevac/models/local_*.pkl  # uncomment if needed

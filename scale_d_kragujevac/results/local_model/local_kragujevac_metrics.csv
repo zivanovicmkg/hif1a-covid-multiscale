@@ -1,0 +1,6 @@
+Model,N_features,AUC,Brier,Note
+XGBoost (full),40,0.946,0.092,
+LR (all features),40,0.969,0.062,
+LR (age+CRP+urea+ly+LDH),5,0.759,0.19,
+Baseline (age+CRP),2,0.698,0.22,
+External transfer (Sirio->Kragujevac),30,0.503,0.259,from previous script

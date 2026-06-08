@@ -1,0 +1,16 @@
+age_group,feature,OR,coef
+<50,pneumonia,1.65,0.5
+<50,diabetes,1.2,0.186
+<50,obesity,1.19,0.174
+<50,SEX_MALE,0.89,-0.112
+<50,chronic_renal,1.08,0.075
+50-64,pneumonia,1.49,0.396
+50-64,SEX_MALE,0.89,-0.112
+50-64,obesity,1.1,0.099
+50-64,hypertension,1.08,0.073
+50-64,diabetes,1.05,0.051
+65+,pneumonia,1.46,0.381
+65+,diabetes,1.07,0.072
+65+,obesity,1.06,0.056
+65+,chronic_renal,1.05,0.045
+65+,SEX_MALE,0.96,-0.036

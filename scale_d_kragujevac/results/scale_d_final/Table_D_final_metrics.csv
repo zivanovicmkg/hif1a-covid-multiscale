@@ -1,0 +1,2 @@
+Cohort,N,N_events,Event_rate,N_features,AUC,AUC_CI_low,AUC_CI_high,AP,Brier,Optimal_threshold,Sensitivity,Specificity,PPV,NPV,Accuracy,Validation,Bootstrap_iterations
+Kragujevac,93,30,0.323,11,0.84,0.751,0.916,0.753,0.164,0.287,0.867,0.73,0.605,0.92,0.774,LOOCV,1000

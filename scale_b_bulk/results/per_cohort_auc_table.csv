@@ -1,0 +1,6 @@
+cohort,comparison,positive_class,negative_class,N_positive,N_negative,LR_CV_AUC,LR_CV_std,panel_score_AUC,note
+GSE152075,COVID vs Control,COVID,Control,430,54,0.753,0.061,0.45,SARS-CoV-2+ hospital patients vs healthcare workers
+GSE157103,ICU vs NonICU,ICU,NonICU,65,58,0.718,0.086,0.552,Hospitalized COVID — severity comparison
+GSE171110,Severe vs Healthy,Severe,Healthy,44,10,0.989,0.022,0.789,Severe COVID-19 vs healthy donors (small N)
+GSE212861,Covid19_SDRA vs Covid19,Covid19_SDRA,Covid19,33,60,0.779,0.123,0.694,ARDS-complicated COVID vs standard COVID
+GSE300696,Hospitalized vs Convalescent,Hospitalized,Convalescent,188,158,0.841,0.037,0.573,Acute hospitalized vs post-COVID recovered

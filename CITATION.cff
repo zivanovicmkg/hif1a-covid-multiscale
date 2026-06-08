@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this software or the derived results, please cite both the software (this Zenodo record) and the associated manuscript."
+title: "HIF1A-COVID Multi-scale Analysis"
+abstract: >-
+  Source code and reproducibility materials for a multi-scale analysis of the
+  HIF1A (hypoxia-inducible factor 1-alpha) axis in COVID-19 host biology,
+  integrating evidence across four analytical scales: a Mexican population-level
+  cohort (N=35,268), a five-cohort bulk RNA-seq meta-analysis (N=1,100) plus a
+  single-cell RNA-seq dataset of peripheral neutrophils, a Brazilian clinical
+  machine-learning cohort (N=326), and a Serbian clinical-genetic cohort with
+  HIF1A genotyping (N=93).
+type: software
+authors:
+  - given-names: Marko
+    family-names: Živanović
+    affiliation: "BioIRC Center of Excellence for Bioengineering, University of Kragujevac, Serbia"
+    orcid: "https://orcid.org/<ORCID_ID_PLACEHOLDER>"
+repository-code: "https://github.com/<GITHUB_USERNAME_PLACEHOLDER>/hif1a-covid-multiscale"
+url: "https://github.com/<GITHUB_USERNAME_PLACEHOLDER>/hif1a-covid-multiscale"
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-08"
+keywords:
+  - COVID-19
+  - SARS-CoV-2
+  - HIF1A
+  - hypoxia
+  - bulk RNA-seq
+  - single-cell RNA-seq
+  - meta-analysis
+  - machine learning
+  - XGBoost
+  - SHAP
+  - clinical genetics
+  - host genetics
+  - multi-scale analysis
+preferred-citation:
+  type: article
+  title: "Multi-scale analysis of the HIF1A hypoxia axis in COVID-19 host biology"
+  authors:
+    - given-names: Marko
+      family-names: Živanović
+      affiliation: "BioIRC Center of Excellence for Bioengineering, University of Kragujevac, Serbia"
+      orcid: "https://orcid.org/<ORCID_ID_PLACEHOLDER>"
+  year: 2026
+  status: in-preparation
