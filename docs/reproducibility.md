@@ -6,7 +6,7 @@ End-to-end instructions for reproducing the multi-scale analysis. Each scale is 
 
 ```bash
 # Clone the repository
-git clone https://github.com/<GITHUB_USERNAME_PLACEHOLDER>/hif1a-covid-multiscale.git
+git clone https://github.com/zivanovicmkg/hif1a-covid-multiscale.git
 cd hif1a-covid-multiscale
 
 # Create a Python 3.10+ environment

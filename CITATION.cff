@@ -13,10 +13,10 @@ type: software
 authors:
   - given-names: Marko
     family-names: Živanović
-    affiliation: "BioIRC Center of Excellence for Bioengineering, University of Kragujevac, Serbia"
-    orcid: "https://orcid.org/<ORCID_ID_PLACEHOLDER>"
-repository-code: "https://github.com/<GITHUB_USERNAME_PLACEHOLDER>/hif1a-covid-multiscale"
-url: "https://github.com/<GITHUB_USERNAME_PLACEHOLDER>/hif1a-covid-multiscale"
+    affiliation: "Institute for Information Technologies Kragujevac, University of Kragujevac, Serbia"
+    orcid: "https://orcid.org/0000-0002-8833-8035"
+repository-code: "https://github.com/zivanovicmkg/hif1a-covid-multiscale"
+url: "https://github.com/zivanovicmkg/hif1a-covid-multiscale"
 license: MIT
 version: "1.0.0"
 date-released: "2026-06-08"
@@ -40,7 +40,7 @@ preferred-citation:
   authors:
     - given-names: Marko
       family-names: Živanović
-      affiliation: "BioIRC Center of Excellence for Bioengineering, University of Kragujevac, Serbia"
-      orcid: "https://orcid.org/<ORCID_ID_PLACEHOLDER>"
+      affiliation: "Institute for Information Technologies Kragujevac, University of Kragujevac, Serbia"
+      orcid: "https://orcid.org/0000-0002-8833-8035"
   year: 2026
   status: in-preparation

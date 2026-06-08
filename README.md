@@ -78,11 +78,11 @@ End-to-end reproduction instructions for each scale are provided in [`docs/repro
 
 ## Funding and acknowledgments
 
-This work was supported by the **EngVIPO** EU-funded project. The clinical-genetic component (Scale D) was performed at the **BioIRC Center of Excellence for Bioengineering, University of Kragujevac, Serbia**, in collaboration with the University Clinical Centre Kragujevac under ethics decision 01/20-498.
+This work was supported by the **EngVIPO** EU-funded project. The clinical-genetic component (Scale D) was performed at the **Institute for Information Technologies Kragujevac, University of Kragujevac, Serbia**, in collaboration with the University Clinical Centre Kragujevac under ethics decision 01/20-498.
 
 ## Author
 
 **Marko Živanović**
-BioIRC Center of Excellence for Bioengineering
+Institute for Information Technologies Kragujevac
 University of Kragujevac, Serbia
-ORCID: [`<ORCID_ID_PLACEHOLDER>`](https://orcid.org/<ORCID_ID_PLACEHOLDER>)
+ORCID: [`0000-0002-8833-8035`](https://orcid.org/0000-0002-8833-8035)
